@@ -47,6 +47,5 @@ Limit velocity at 0.15 m/s.
 ### Usage of generator in an experiment
 ![Usage of the generator in an actual experiment](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_in_experiment.png)
 
-
 ## Author
-This library has been developed by [Wilbert van de Ridder](http://www.github.com/WRidder) for a BSc assignment at the [University of Twente](http://www.utwente.nl).
+This library has been developed by [Wilbert van de Ridder](http://www.github.com/WRidder) as part of a BSc assignment at the [University of Twente](http://www.utwente.nl).
