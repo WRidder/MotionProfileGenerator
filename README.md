@@ -3,8 +3,6 @@ A library which generates a motion profile (trapezoidal or constant) to reach a 
 
 Matlab and cpp (Arduino specific) libraries are available. It should be relatively easy to port the cpp version to other platforms.
 
-{:toc}
-
 ## Features
 * On the fly profile generation
 * Supports Trapezoidal and Constant motion profiles
@@ -38,6 +36,15 @@ MotionProfile trapezoidalProfile = new MotionProfile(200, 100, 1, 10);
 ```
 
 ## Example graphs
+### Trapezoidal motion profile
+![Simulation of a trapezoidal motion profile](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_trapezoidal.png)
+
+### Constant motion profile
+![Simulation of a constant motion profile](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_const.png)
+
+### Usage of generator in an experiment
+![Usage of the generator in an actual experiment](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_in_experiment.png)
+
 
 ## Author
 This library has been developed by [Wilbert van de Ridder](http://www.github.com/WRidder) for a BSc assignment at the [University of Twente](http://www.utwente.nl).
