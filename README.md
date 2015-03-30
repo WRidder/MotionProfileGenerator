@@ -38,11 +38,11 @@ MotionProfile trapezoidalProfile = new MotionProfile(200, 100, 1, 10);
 ## Example graphs
 ### Trapezoidal motion profile
 ![Simulation of a trapezoidal motion profile](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_trapezoidal.png)
-Limit velocity at 0.15 m/s and acceleration at 0.1 m/s^2.
+Limit velocity at 0.15 units/s and acceleration at 0.1 units/s^2.
 
 ### Constant motion profile
 ![Simulation of a constant motion profile](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_const.png)
-Limit velocity at 0.15 m/s.
+Limit velocity at 0.15 units/s.
 
 ### Usage of generator in an experiment
 ![Usage of the generator in an actual experiment](https://raw.githubusercontent.com/WRidder/MotionProfileGenerator/master/images/motionprofile_in_experiment.png)
